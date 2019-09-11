@@ -74,7 +74,6 @@ public class ALDS1_3_C {
                     break;
             }
         }
-
         list.print();
     }
 
@@ -85,7 +84,4 @@ public class ALDS1_3_C {
         void deleteLast();
         void print();
     }
-
-
-
 }
